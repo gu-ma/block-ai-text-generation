@@ -1,3 +1,19 @@
+---
+title: "Block: AI – Text Generation"
+description: "Big-picture introduction to LLMs: from pre-training to assistant behavior, limitations, and critical creative practice."
+theme: "AI" # AI, Generative, etc...
+block_name: "Text Generation"
+block_type: lecture # lecture, workshop,
+draft: false
+tags:
+  - ai
+  - text-generation
+  - lecture
+  - llm
+  - prompting
+  - critical-practice
+---
+
 # Block: AI – Text Generation
 
 This block introduces how large language models (LLMs) work at a big-picture level. Students build practical mental models of the full pipeline (pre-training, post-training, reinforcement learning), understand what LLMs can and cannot do, and apply a critical workflow for creative and academic use.
