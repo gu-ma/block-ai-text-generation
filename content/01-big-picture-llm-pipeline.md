@@ -11,6 +11,10 @@ This block uses one simple map:
 2. **Post-training** → shape it into an **assistant**
 3. **Reinforcement Learning** → improve behavior through practice
 
+## Outlook
+
+![image](../resources/llm_steps.png)
+
 ## Mental model
 
 - A base LLM is a very strong **next-token predictor**.
