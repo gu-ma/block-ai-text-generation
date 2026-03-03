@@ -41,8 +41,14 @@ In studio, we do not train LLMs from scratch. We work at **inference time**:
 
 **Format:** Lecture + guided discussion
 
+- **NotebookLM:**
+  - [Notebook link](https://notebooklm.google.com/notebook/4558b471-595c-4407-98c8-bffd0d3ff6c6)
+
+Use this NotebookLM 👆 to listen to an interactive podcast, watch a video summary, review core sources, ask questions, and generate quick study summaries before or after class.
+> If you’re **taking this class asynchronously**, use the notebook as your primary resource instead of the slides.
+
 - **Slides:**
-  - [Presentation (to add)](#)
+  - [Presentation](https://ai.massol.me/block-ai-text-generation-slides/)
 - **Core notes:**
   - [00 – Quick History of Text Generative Models](./content/00-quick-history-text-generative-models.md)
   - [01 – Big Picture LLM Pipeline](./content/01-big-picture-llm-pipeline.md)
@@ -67,7 +73,7 @@ In studio, we do not train LLMs from scratch. We work at **inference time**:
 
 ## Preparation (Between classes)
 
-- Watch: [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+- Watch: [Intro to Large Language Models (Andrej Karpathy)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - Read in order: content notes 01 → 06
 - Bring one concrete use case where you want to use an LLM (drafting, research, ideation, coding, etc.)
 
@@ -75,7 +81,7 @@ In studio, we do not train LLMs from scratch. We work at **inference time**:
 
 - [How does GPT work? (simple explainer)](https://confusedbit.dev/posts/how_does_gpt_work/)
 - [Transformers explained (video)](https://www.youtube.com/watch?v=SZorAJ4I-sA)
-- [Intro to Large Language Models (Andrej Karpathy)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ## Tools
 
