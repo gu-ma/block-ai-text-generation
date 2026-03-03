@@ -1,6 +1,6 @@
 ---
 title: "06 — Studio Workflow and Critical Practice"
-draft: false
+draft: true
 ---
 
 # 06 — Studio Workflow and Critical Practice
