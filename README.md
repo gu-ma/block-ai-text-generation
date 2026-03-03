@@ -1,4 +1,3 @@
-
 # Block: AI – Text Generation
 
 This block introduces how large language models (LLMs) work at a big-picture level. Students build practical mental models of the full pipeline (pre-training, post-training, reinforcement learning), understand what LLMs can and cannot do, and apply a critical workflow for creative and academic use.
@@ -45,6 +44,7 @@ In studio, we do not train LLMs from scratch. We work at **inference time**:
   - [Notebook link](https://notebooklm.google.com/notebook/4558b471-595c-4407-98c8-bffd0d3ff6c6)
 
 Use this NotebookLM 👆 to listen to an interactive podcast, watch a video summary, review core sources, ask questions, and generate quick study summaries before or after class.
+
 > If you’re **taking this class asynchronously**, use the notebook as your primary resource instead of the slides.
 
 - **Slides:**
@@ -54,7 +54,6 @@ Use this NotebookLM 👆 to listen to an interactive podcast, watch a video summ
   - [01 – Big Picture LLM Pipeline](./content/01-big-picture-llm-pipeline.md)
   - [02 – Pretraining & Base Models](./content/02-pretraining-base-models.md)
   - [03 – From Base Model to Assistant](./content/03-from-base-model-to-assistant.md)
-  - [07 – Inference & RAG in Practice (Bridge Note)](./content/07-inference-and-rag-in-practice.md)
 
 ## Part 2: Studio + Critical Practice
 
@@ -63,13 +62,27 @@ Use this NotebookLM 👆 to listen to an interactive podcast, watch a video summ
 - **Practice notes:**
   - [04 – Hallucinations, Tools, and Context](./content/04-hallucinations-tools-and-context.md)
   - [05 – LLM Psychology and Limitations](./content/05-llm-psychology-and-limitations.md)
-  - [06 – Studio Workflow and Critical Practice](./content/06-studio-workflow-and-critical-practice.md)
+  - [06 – Inference & RAG in Practice](./content/06-inference-and-rag-in-practice.md)
 
 - **Samples notebooks (Jupyter / Colab):**
   - [01 – System Prompt Playground ](./samples/01-system-prompt.ipynb)
-  - [02 – Simple RAG + Personas + Chat Memory ](./samples/02-simple-rag-personas.ipynb)
-  - [03 – Embeddings + Tiny Semantic Search ](./samples/03-embeddings-semantic-search.ipynb)
+  - [02 – Simple RAG + Personas + Chat Memory](./samples/02-simple-rag-personas.ipynb)
+  - [03 – Embeddings + Tiny Semantic Search](./samples/03-embeddings-semantic-search.ipynb)
   - [04 – Hugging Face Model Loading Quickstart](./samples/04-huggingface-model-loading-quickstart.ipynb)
+
+[Direct repo link (to use for cloning)](https://github.com/gu-ma/block-ai-text-generation)
+
+Clone the whole repo
+
+```bash
+git clone https://github.com/gu-ma/block-ai-text-generation
+```
+
+Clone only the samples (Jupyter notebooks)
+
+```bash
+git clone --depth 1 --filter=blob:none --sparse https://github.com/gu-ma/block-ai-text-generation && cd block-ai-text-generation && git sparse-checkout set samples
+```
 
 ## Preparation (Between classes)
 
