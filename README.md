@@ -1,3 +1,4 @@
+
 # Block: AI – Text Generation
 
 This block introduces how large language models (LLMs) work at a big-picture level. Students build practical mental models of the full pipeline (pre-training, post-training, reinforcement learning), understand what LLMs can and cannot do, and apply a critical workflow for creative and academic use.
