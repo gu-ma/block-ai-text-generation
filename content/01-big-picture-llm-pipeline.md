@@ -71,8 +71,6 @@ In class notebooks, we apply this pipeline at **inference time** (not training t
 
 ## Activity
 
-{{< rawhtml >}}
-
 <iframe
   src="https://ai.massol.me/h5p/block-ai-text-generation/01-big-picture-llm-pipeline.html"
   style="width:100%; height:clamp(330px, 30vh, 900px); border:0; display:block;"
@@ -80,4 +78,3 @@ In class notebooks, we apply this pipeline at **inference time** (not training t
   title="Activity Name"
   loading="lazy"
 ></iframe>
-{{< /rawhtml >}}
