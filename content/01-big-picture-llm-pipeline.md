@@ -72,7 +72,7 @@ In class notebooks, we apply this pipeline at **inference time** (not training t
 ## Activity
 
 <iframe
-  src="https://ai.massol.me/h5p/block-ai-text-generation/01-big-picture-llm-pipeline.html"
+  src="https://ai.massol.me/h5p/embed.html?activity=block-ai-text-generation/01-big-picture-llm-pipeline"
   style="width:100%; height:clamp(330px, 30vh, 900px); border:0; display:block;"
   <!-- style="width:100%; height:20vh; min-height:330px; border:0;" -->
   title="Activity Name"
