@@ -67,3 +67,14 @@ In studio notebooks, we usually work with already-trained models:
 - we do not retrain parameters
 - we control behavior through prompts and context
 - we use retrieval/context injection when factual grounding matters
+
+
+## Activity
+
+<iframe
+  src="https://ai.massol.me/h5p/embed.html?activity=block-ai-text-generation/02-pretraining-base-models"
+  style="width:100%; height:clamp(330px, 30vh, 900px); border:0; display:block;"
+  <!-- style="width:100%; height:20vh; min-height:330px; border:0;" -->
+  title="Activity"
+  loading="lazy"
+></iframe>
