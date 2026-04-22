@@ -68,7 +68,6 @@ In studio notebooks, we usually work with already-trained models:
 - we control behavior through prompts and context
 - we use retrieval/context injection when factual grounding matters
 
-
 ## Activity
 
 <iframe
