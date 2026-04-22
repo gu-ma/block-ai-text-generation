@@ -73,3 +73,12 @@ Before accepting an answer:
 1. Check whether claims are factual or speculative
 2. Verify key claims with external sources
 3. Revise final output with citations or evidence
+
+## Activity
+
+<iframe
+  src="https://ai.massol.me/h5p/embed.html?activity=block-ai-text-generation/04-hallucinations-tools-and-context"
+  style="width:100%; height:400px; border:0; display:block;"
+  title="Activity"
+  loading="lazy"
+></iframe>
