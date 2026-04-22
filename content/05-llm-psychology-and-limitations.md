@@ -50,3 +50,12 @@ Success comes from combining:
 - good prompt design
 - task-aware verification
 - human judgment
+
+## Activity
+
+<iframe
+  src="https://ai.massol.me/h5p/embed.html?activity=block-ai-text-generation/05-llm-psychology-and-limitations"
+  style="width:100%; height:500px; border:0; display:block;"
+  title="Activity"
+  loading="lazy"
+></iframe>
