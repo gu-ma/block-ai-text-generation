@@ -73,3 +73,12 @@ In practical notebooks, this post-training background appears as:
 - better instruction following than raw base-style behavior
 - sensitivity to system prompt and role formatting
 - need for iterative prompting plus external verification for reliability
+
+## Activity
+
+<iframe
+  src="https://ai.massol.me/h5p/embed.html?activity=block-ai-text-generation/03-from-base-model-to-assistant"
+  style="width:100%; height:clamp(560px, 30vh, 900px); border:0; display:block;"
+  title="Activity"
+  loading="lazy"
+></iframe>
